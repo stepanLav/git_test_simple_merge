@@ -2,3 +2,5 @@ initial commit
 commit for develop
 commit for rc/1.0.0
 commit for rc/2.0.0
+first change for rc/3.0.0
+second change for rc/3.0.0
